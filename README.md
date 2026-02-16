@@ -6,7 +6,7 @@
 <div align="center">
 
   <!-- ANIMATED HEADER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Rahul%20Narvaria&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Product%20Builder%20%7C%20Fintech%20Innovator&descSize=16&descAlignY=55&descColor=58A6FF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=Rahul%20Narvaria&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Portfolio%20Manager%20%7C%20Product%20Builder%20%7C%20Fintech%20Innovator&descSize=16&descAlignY=55&descColor=58A6FF&animation=fadeIn" width="100%" />
 
   <!-- ANIMATED TYPING -->
   <a href="https://git.io/typing-svg">
